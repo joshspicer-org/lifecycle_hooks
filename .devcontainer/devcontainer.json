@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "initializeCommand": ".devcontainer/run.sh initializeCommand",
+  // "initializeCommand": ".devcontainer/run.sh initializeCommand",
   "onCreateCommand": ".devcontainer/run.sh onCreateCommand",
   "updateContentCommand": ".devcontainer/run.sh updateContentCommand",
   "postCreateCommand": ".devcontainer/run.sh postCreateCommand",
